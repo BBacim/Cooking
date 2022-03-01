@@ -11,6 +11,7 @@ import Recipe from "./pages/recipe/Recipe";
 import Navbar from "./components/Navbar";
 import ThemeSelector from "./components/ThemeSelector";
 import { useTheme } from "./hooks/useTheme";
+import Footer from "./components/Footer";
 
 function App() {
   const {mode} = useTheme()
@@ -36,6 +37,7 @@ function App() {
             <Recipe />
           </Route>
         </Switch>
+        <Footer />
       </BrowserRouter>
     </div>
   );
