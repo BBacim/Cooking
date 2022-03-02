@@ -1,3 +1,6 @@
+![Cooking Ninja](https://i.ibb.co/FKm3f75/cooking.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
